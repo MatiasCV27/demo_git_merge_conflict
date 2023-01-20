@@ -1,8 +1,8 @@
-Hola Mundo De Fresa
+Hola Mundo De Golosinas
 Adios Venus
 
 Linea1
 Linea2
 
-Lineax
+Linea1
 Lineay

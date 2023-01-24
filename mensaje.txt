@@ -1,8 +1,0 @@
-Hola Mundo De Fresa
-Adios Venus
-
-Linea1
-Linea2
-
-Linea40
-Linea50
